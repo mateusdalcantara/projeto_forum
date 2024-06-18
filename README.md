@@ -1,19 +1,26 @@
 ## 💻 Sobre o projeto
 
 Project forum, é um forum fictícia que pode ser criado, acessado, ler e deletar por um estudante ou administrador, devidamente cadastrado. 
-O Projeto está em faze de ajustes, com tempo vou adicionando as tecnologias e suas funcionalidades. 
+O Projeto está em faze de ajustes, com tempo vou adicionando as tecnologias e mais funcionalidades. 
 
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- [x] CRUD de estudante;
-- [ ] CRUD de curso;
-- [x] CRUD de topicos
+- [x] CRUD de Estudante;
+- [ ] CRUD de Cursos;
+- [x] CRUD de Topicos;
+- [ ] CRUD de Professores
+- [ ] CRUD de Funcionários;
 - [x] Adicionado roles usuário e administrador; 
 - [x] Cada estudante deve ter uma matricula;
-- [ ] Cancelamento de curso.
+- [ ] Cancelamento de curso;
+- [ ] Adicionar métodos de pagamentos;
+- [ ] Funcionalidade01;
+- [ ] Funcionalidade02;
+- [ ] Funcionalidade03;
+- [ ] .....
 
 ---
 
