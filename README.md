@@ -1,6 +1,6 @@
 ## 💻 Sobre o projeto
 
-Project forum, é um forum fictício que pode ser criado, acessado, ler e deletar por um estudante ou administrador, devidamente cadastrado.
+Project forum, é um forum fictício que pode criar um tópico, escrever nele, modificar e deletar por um estudante ou administrador, devidamente cadastrado.
  
 ---
 
