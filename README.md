@@ -27,12 +27,12 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 
 - **[Java 17](https://www.oracle.com/java)**
 - **[Spring Boot 3](https://spring.io/projects/spring-boot)**
+- **[Spring Security](https://docs.spring.io/spring-security/reference/index.html)**
 - **[Maven](https://maven.apache.org)**
 - **[MySQL](https://www.mysql.com)**
 - **[Hibernate](https://hibernate.org)**
 - **[Flyway](https://flywaydb.org)**
 - **[Lombok](https://projectlombok.org)**
-- **[Spring Security](https://docs.spring.io/spring-security/reference/index.html)**
 - **[JWT - Auth0](https://github.com/auth0/java-jwt)**
 
 ---
