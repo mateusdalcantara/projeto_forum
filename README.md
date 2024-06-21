@@ -6,9 +6,10 @@ Project forum, é um forum fictício que pode criar um tópico, escrever nele, m
 
 ## ⚙️ Funcionalidades
 
-- [x] CRUD de Estudante;
+- [x] CRUD de Estudantes;
 - [x] CRUD de Topicos;
-- [x] CRUD de Professores
+- [ ] CRUD de Cursos; 
+- [x] CRUD de Professores;
 - [x] Cada estudante deve ter uma matricula;
 - [x] Adicionado roles usuário e administrador;
 - [ ] Adicionado restrições para os usuários.
