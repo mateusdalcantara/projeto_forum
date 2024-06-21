@@ -32,6 +32,8 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 - **[Hibernate](https://hibernate.org)**
 - **[Flyway](https://flywaydb.org)**
 - **[Lombok](https://projectlombok.org)**
+- **[Spring Security](https://docs.spring.io/spring-security/reference/index.html)**
+- **[JWT - Auth0](https://github.com/auth0/java-jwt)**
 
 ---
 
