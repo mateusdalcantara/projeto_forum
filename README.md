@@ -1,6 +1,6 @@
 ## 💻 Sobre o projeto
 
-Project forum, é um forum fictício que pode criar um tópico, escrever nele, modificar e deletar por um estudante ou administrador, devidamente cadastrado.
+Project forum, é um forum fictício que um usuário cadastrado pode criar um tópico, escrever nele, modificado por um estudante ou administrador, devidamente cadastrado.
  
 ---
 
@@ -9,7 +9,6 @@ Project forum, é um forum fictício que pode criar um tópico, escrever nele, m
 - [x] CRUD de Estudantes;
 - [x] CRUD de Topicos;
 - [ ] CRUD de Cursos; 
-- [x] CRUD de Professores;
 - [x] Cada estudante deve ter uma matricula;
 - [x] Adicionado roles usuário e administrador;
 - [ ] Adicionado restrições para os usuários.
